@@ -1,3 +1,10 @@
+# QA-AWSGroupProject
+Final group project whilst at QAcademy
+link to GitHub repository where I am a contributor:
+https://github.com/HavidDulsman/QA-AWSGroupProject
+
+This repo has been cloned from the above repo.
+
 # QA Consulting: Amazon Web Services Group Project
 
 
